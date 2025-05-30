@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nim": "21456787",
+    "nama": "Erik Sobirin",
+    "kelas": "KA-NR-4"
+  },
+  {
+    "id": 2,
+    "nim": "21456721",
+    "nama": "Ulfa Nadya",
+    "kelas": "KA-NR-4"
+  },
+  {
+    "id": 3,
+    "nim": "21456237",
+    "nama": "Novi Marcelimah",
+    "kelas": "KA-NR-4"
+  },
+  {
+    "id": 4,
+    "nim": "21456237",
+    "nama": "Anisa Salsabila",
+    "kelas": "KA-NR-4"
+  },
+  {
+    "id": 4,
+    "nim": "24316532",
+    "nama": "Harist Fadilah",
+    "kelas": "SI-NR-1"
+  }
+]
